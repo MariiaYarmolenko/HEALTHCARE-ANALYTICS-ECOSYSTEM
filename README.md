@@ -66,4 +66,4 @@
 - `/Queries`: SQL-скрипти та калькуляції, використані у Tableau. 
 - `/HEALTHCARE ANALYTICS ECOSYSTEM`: повний аналітичний звіт **INSIGHTS & RECOMMENDATIONS** (PDF).
 
-Посилання на Tableau Public: [![Tableau Dashboard](https://img.shields.io/badge/Tableau-Interactive_Dashboard-orange?style=for-the-badge&logo=tableau)]([ВАШЕ_ПОСИЛАННЯ_ТУТ](https://img.shields.io/badge/Tableau-Interactive_Dashboard-orange?style=for-the-badge&logo=tableau](https://img.shields.io/badge/Tableau-Interactive_Dashboard-orange?style=for-the-badge&logo=tableau](https://public.tableau.com/shared/46MT9FGN2?:display_count=n&:origin=viz_share_link))
+Посилання на Tableau Public: [![Tableau Dashboard](https://img.shields.io/badge/Tableau-Interactive_Dashboard-orange?style=for-the-badge&logo=tableau)](https://img.shields.io/badge/Tableau-Interactive_Dashboard-orange?style=for-the-badge&logo=tableau](https://public.tableau.com/shared/46MT9FGN2?:display_count=n&:origin=viz_share_link)
