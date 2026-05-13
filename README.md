@@ -66,7 +66,8 @@
 - `/Queries`: SQL-скрипти та калькуляції, використані у Tableau. 
 - `/HEALTHCARE ANALYTICS ECOSYSTEM`: повний аналітичний звіт **INSIGHTS & RECOMMENDATIONS** (PDF).
 
-Посилання на Tableau Public:
+---
+
 ## 📊 Інтерактивний дашборд
 Натисніть на кнопку нижче, щоб відкрити повну версію проєкту з налаштованими фільтрами в Tableau Public:
 
